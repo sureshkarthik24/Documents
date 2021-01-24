@@ -1,0 +1,6 @@
+Netbeans
+*************
+
+1) maven-clean-plugin:2.4.1 or one of its dependencies could not be resolved fix 
+
+https://stackoverflow.com/questions/60031044/how-to-change-mavens-remote-repository-url-in-the-netbeans-ide-from-http-to-ht
